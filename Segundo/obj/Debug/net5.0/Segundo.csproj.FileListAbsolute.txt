@@ -1,0 +1,16 @@
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.csproj.AssemblyReference.cache
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.AssemblyInfoInputs.cache
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.AssemblyInfo.cs
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.csproj.CoreCompileInputs.cache
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/Segundo
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/Segundo.deps.json
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/Segundo.runtimeconfig.json
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/Segundo.runtimeconfig.dev.json
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/Segundo.dll
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/ref/Segundo.dll
+/home/leandro/dio/gft/processo-seletivo/Segundo/bin/Debug/net5.0/Segundo.pdb
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.dll
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/ref/Segundo.dll
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.pdb
+/home/leandro/dio/gft/processo-seletivo/Segundo/obj/Debug/net5.0/Segundo.genruntimeconfig.cache

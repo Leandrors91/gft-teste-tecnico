@@ -1,0 +1,16 @@
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.csproj.AssemblyReference.cache
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.AssemblyInfoInputs.cache
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.AssemblyInfo.cs
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.csproj.CoreCompileInputs.cache
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/terceiro
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/terceiro.deps.json
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/terceiro.runtimeconfig.json
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/terceiro.runtimeconfig.dev.json
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/terceiro.dll
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/ref/terceiro.dll
+/home/leandro/dio/gft/processo-seletivo/terceiro/bin/Debug/net5.0/terceiro.pdb
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.dll
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/ref/terceiro.dll
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.pdb
+/home/leandro/dio/gft/processo-seletivo/terceiro/obj/Debug/net5.0/terceiro.genruntimeconfig.cache
